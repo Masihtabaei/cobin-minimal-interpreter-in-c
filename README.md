@@ -20,4 +20,8 @@ Feel free to extend/adjust this project so that it meets your goals.
 ## Usage/Example
 
 Just run the project in Code::Blocks. Then you can enter your expressions which then get
-evaluated instantly (similar to interactive mode in Python).  
+evaluated instantly (similar to interactive mode in Python).
+
+## Image
+![cobin-image](https://github.com/Masihtabaei/cobin-minimal-interpreter-in-c/assets/40685026/f2516de6-5f54-41d6-bc15-7c031b095936)
+
