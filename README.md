@@ -9,7 +9,7 @@
 
 ## General Information
 
-Here you will find a minimal interpreter written in C (which I used to in an embedded systems console based project).
+Here you will find a minimal interpreter written in C (which I used in an embedded systems console based project).
 It supports basic arithmetic operations (number + number | number - number | number * number | number / number  \[only integer divisions\]) for positive numbers and can get used to raise a number to a positive exponent (number ** exponent). 
 In addition it supports an unlimited number of brackets which can get nested in an arbitrary way.
 
