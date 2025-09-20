@@ -1,5 +1,11 @@
 # cobin - A Minimal Interpreter Written in C
 
+> [!NOTE]  
+> This project was completed as part of the **Applied Microcomputer Technology** course during the **Summer Term 2023** of our undergraduate studies, offered by [Prof. Dr. Peter Raab](https://www.oth-aw.de/en/university/about-our-university/staff/raab-peter/) at [Coburg University](https://www.hs-coburg.de/en/). It was originally developed outside of GitHub and later partially migrated here, so some elements may be missing.
+
+> [!IMPORTANT]  
+> This project is licensed under the [MIT License](https://masihtabaei.dev/licenses/mit).
+
 ## Technologies Used
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
