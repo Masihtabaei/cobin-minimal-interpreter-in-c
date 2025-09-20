@@ -1,4 +1,4 @@
-# Cobin - A Minimal Interpreter Written in C
+# cobin - A Minimal Interpreter Written in C
 
 ## Technologies Used
 
